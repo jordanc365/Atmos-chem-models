@@ -9,8 +9,11 @@ The purpouse of them is to spatially and temporally plot NETCDF4 data outputted 
 The scripts included with this pacakage are for the assessment of the following chemical transport model outputs:
 
 (KOEH)              CCAM-CTM 2011 
+
 (Year OEH Scripts)  CCAM-CTM (V5.4) 
+
 (KMEGAN)            CTM+MEGAN 2011 - Kathryn Emmerson CSIRO from paper "Current estimates of biogenic emissions from Eucalypts uncertain for Southeast Australia"
+
 (JMEGAN/JMEGAN 3x3) MEGAN Offline 2011 - Jeremy Silver UOM (Both 1x1 and 3x3 data can be modelled from this)
 
 These scripts assume that data has been concatanated into monthly files using CDO or other relevant software
