@@ -2,7 +2,8 @@
 
 Author: Jordan Capnerhurst 2016 B. Env. Science Honours student UOW
 
-These scripts are my first attempt at coding so they're probably pretty sloppy and could be done a lot better but they may be of use to someone out there.
+These scripts are my first attempt at coding so they're probably pretty sloppy and could be done a lot better but they may be of use to someone out there. Some are very straightforward and contain simple commands as I was learning python for the first time during the project.
+
 The purpouse of them is to spatially and temprally plot NETCDF4 data outputted by 3 different chemical transport models.
 
 The scripts included with this pacakage are for the assessment of the following chemical transport model outputs:
